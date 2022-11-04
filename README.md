@@ -1,5 +1,7 @@
 # Don't Forget Your Mask (a.k.a MakaoTalk)
 
+## Description
+
 •	Android application not to forget wearing masks before leaving home by using Tensorflow
 
 ![Slide1](https://user-images.githubusercontent.com/60703075/199925307-2e54543e-a256-4da4-bc41-cc4d4856e8dc.jpeg)
